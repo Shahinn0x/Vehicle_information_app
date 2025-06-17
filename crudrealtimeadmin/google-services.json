@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1074379764149",
+    "project_id": "crud-realtime-client-da840",
+    "storage_bucket": "crud-realtime-client-da840.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074379764149:android:6a2de78a0f7b2db7c3a9fc",
+        "android_client_info": {
+          "package_name": "com.shahinidrisi.crudrealtimeadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvXZ8Xua2rkZM4RA1imJD25XzCZOTXyzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074379764149:android:604fee434bd8473cc3a9fc",
+        "android_client_info": {
+          "package_name": "com.shahinidrisi.crudrealtimeclient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvXZ8Xua2rkZM4RA1imJD25XzCZOTXyzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
