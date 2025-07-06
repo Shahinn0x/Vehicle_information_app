@@ -29,7 +29,7 @@ With a clean interface and real-time data fetching, the app simplifies vehicle v
 ### 🚗 Quick Vehicle Search
 - Simply enter the vehicle number to get instant vehicle details through a fast and user-friendly interface.
 
-### 🚗 History Check *(If Integrated)*
+### 🚗 History Check 
 - Optionally view past ownership, accident history, or blacklisting information (if supported).
 
 ### 🚗 Lightweight & Fast Performance
@@ -59,7 +59,7 @@ With a clean interface and real-time data fetching, the app simplifies vehicle v
 ![Screenshot 2025-07-06 214711](https://github.com/user-attachments/assets/fd394a02-b3a5-4049-9d95-e05cdaa0c3f6)
 
 
-### ⚙️ Admin Dashboard *(If Applicable)*
+### ⚙️ Admin Dashboard 
 ![Screenshot 2025-07-06 213130](https://github.com/user-attachments/assets/01544b2d-d2e0-46ce-8a43-440c3ce49b36)
 ![Screenshot 2025-07-06 212903](https://github.com/user-attachments/assets/25fc432c-8fe5-4eb4-afba-9c3a35416465)
 ![Screenshot 2025-07-06 213156](https://github.com/user-attachments/assets/9c01a506-096c-40a6-a556-e04f70f7d46b)
